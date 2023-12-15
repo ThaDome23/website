@@ -1,28 +1,17 @@
-nav{
-    background-color: #7C83FD;
 
-    padding: 10px;
-
+#i{
+    border-radius: 30%;
 }
+h1,body,html{
 
-body,html{
-    margin-top: 0;
+    text-align: center;
+    margin-top: 50px;
     padding-top: 0;
     margin-left: 0;
     margin-right: 0;
+    font-family:'Roboto',sans-serif;
 }
-#logo{
-
-    font-size: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white;
-}
-#bodyy{
-    padding-left: 10px;
-}
-#box{
-    border-radius: 49%;
-    background-color: #96BAFF;
-    height: 300px;
-    width: 300px;
+body{
+    min-height: 100vh;
+    height: 100%;
 }
